@@ -19,7 +19,13 @@
 --unnamed-character-spacing-0: 0px;
 --unnamed-line-spacing-38: 38px;
 --unnamed-line-spacing-65: 65px;
+
+/*gradients*/
+--gradient-1: linear-gradient(120deg, var(--dark-pink), var(--gold));
+--gradient-2: linear-gradient(120deg, var(--pink), var(--dark-pink));
 }
+
+
 
 /* Character Styles */
 .destaques-segoe {
