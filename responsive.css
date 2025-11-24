@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+    .section.home {
+        flex-direction: column !important;
+        padding-top: 120px !important;
+
+        & .container {
+            align-items: center;
+
+            & .destaques-segoe {
+                text-align: center;
+            }
+
+            & .sublegenda-branca {
+                text-align: center;
+            }
+
+            & .logo {
+                width: 250px;
+                align-self: center;
+            }
+        }
+    }
+    .contenction {
+        flex-direction: column !important;
+    }
+    .container {
+        flex-direction: column !important;
+    }
+    .contecntion {
+        flex-direction: column !important;
+        align-items: center;
+    }
+}

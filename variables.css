@@ -1,0 +1,85 @@
+:root {
+
+/* Colors: */
+--dark-gold: #A17603;
+--brown: #53360C;
+--gold: #DFB054;
+--dark-pink: #CB71B9;
+--pink: #FFB9DD;
+
+/* Font/text values */
+--unnamed-font-family-segoe-ui: Segoe UI;
+--unnamed-font-family-black-mango: Black Mango;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-800: 800px;
+--unnamed-font-weight-normal: normal;
+--unnamed-font-weight-bold: bold;
+--unnamed-font-size-29: 29px;
+--unnamed-font-size-41: 41px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-line-spacing-38: 38px;
+--unnamed-line-spacing-65: 65px;
+}
+
+/* Character Styles */
+.destaques-segoe {
+font-family: var(--unnamed-font-family-segoe-ui);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-bold);
+font-size: var(--unnamed-font-size-29);
+line-height: var(--unnamed-line-spacing-38);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: #fff;
+}
+.sublegenda-branca {
+font-family: var(--unnamed-font-family-segoe-ui);
+font-style: var(--unnamed-font-style-normal);
+font-weight: 400;
+font-size: 1rem;
+letter-spacing: var(--unnamed-character-spacing-0);
+color: #ffffff;
+}
+.titulo-rosa-escuro {
+font-family: var(--unnamed-font-family-black-mango);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-800);
+font-size: var(--unnamed-font-size-41);
+line-height: var(--unnamed-line-spacing-65);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--dark-pink);
+}
+.titlulo-rosa-claro {
+font-family: var(--unnamed-font-family-black-mango);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: 1.5rem;
+color: var(--pink);
+text-align: center;
+}
+.legendas-brancas {
+font-family: var(--unnamed-font-family-segoe-ui);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-29);
+line-height: var(--unnamed-line-spacing-38);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: #ffffff;
+}
+
+/* Colors attributes */
+[amarelo] {
+    color: var(--gold) !important;
+    text-align: center;
+}
+[rosa-claro] {
+    color: var(--pink) !important;
+    text-align: center;
+}
+[rosa-escuro] {
+    color: var(--dark-pink) !important;
+    text-align: center;
+}
+[branco] {
+    color: #fff !important;
+    text-align: center;
+}

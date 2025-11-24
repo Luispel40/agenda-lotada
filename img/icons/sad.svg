@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126.598" height="126.598" viewBox="0 0 126.598 126.598">
+  <g id="sad" transform="translate(1 1)">
+    <path id="Caminho_1" data-name="Caminho 1" d="M9,22.03a30.149,30.149,0,0,1,36.179,0" transform="translate(35.209 70.419)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+    <ellipse id="Elipse_1" data-name="Elipse 1" cx="6" cy="9" rx="6" ry="9" transform="translate(74.299 44.299)" fill="#fff"/>
+    <ellipse id="Elipse_2" data-name="Elipse 2" cx="6" cy="9" rx="6" ry="9" transform="translate(38.299 44.299)" fill="#fff"/>
+    <path id="Caminho_2" data-name="Caminho 2" d="M32.149,10.067A60.271,60.271,0,1,1,10.067,32.149" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145.099" height="84.382" viewBox="0 0 145.099 84.382">
+  <g id="down-trend-round" transform="translate(1.243 -2.757)">
+    <path id="primary" d="M3,7,46.944,50.944a7.59,7.59,0,0,0,10.777,0L77.3,31.363a7.59,7.59,0,0,1,10.777,0L139.614,82.9" transform="translate(0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    <path id="primary-2" data-name="primary" d="M17,43.359H47.359V13" transform="translate(92.255 39.538)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  </g>
+</svg>
