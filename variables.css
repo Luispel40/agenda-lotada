@@ -23,6 +23,7 @@
 /*gradients*/
 --gradient-1: linear-gradient(120deg, var(--dark-pink), var(--gold));
 --gradient-2: linear-gradient(120deg, var(--pink), var(--dark-pink));
+--gradient-3: linear-gradient(120deg, rgb(211, 69, 69), rgb(95, 24, 24));
 }
 
 
@@ -72,6 +73,11 @@ letter-spacing: var(--unnamed-character-spacing-0);
 color: #ffffff;
 }
 
+.w-full {
+    width: 100% !important;
+    height: auto !important;
+}
+
 /* Colors attributes */
 [amarelo] {
     color: var(--gold) !important;
@@ -88,4 +94,26 @@ color: #ffffff;
 [branco] {
     color: #fff !important;
     text-align: center;
+}
+[bg-w] {
+    background-color: #fff !important;
+    text-align: center;
+}
+[bg-pink] {
+    background-color: var(--pink) !important;
+    text-align: center;
+}
+[bg-dark-pink] {
+    background-color: var(--dark-pink) !important;
+    text-align: center;
+}
+[bg-gold] {
+    background-color: var(--gold) !important;
+    text-align: center;
+}
+[slim-text] {
+    font-weight: 400 !important;
+}
+[spacing] {
+    margin: 40px 0 !important;
 }
